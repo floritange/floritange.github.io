@@ -16,8 +16,8 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
+    local_business_type: 'Gou Tan'
+    org_name: 'Gou Tan'
     description: 'Gou Tan'
     twitter: 'Gou Tan'
   analytics:
