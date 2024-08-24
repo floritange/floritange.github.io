@@ -67,7 +67,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/2023.7.31-CV.pdf
+    link: uploads/谭苟.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
