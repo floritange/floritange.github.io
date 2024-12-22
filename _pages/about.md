@@ -30,7 +30,7 @@ redirect_from:
 
 
 # 📝 Publications 
-- &nbsp; <span class="badge" style="font-size:16px;">arXiv</span> &nbsp;**A Survey on Failure Analysis and Fault Injection in AI Systems**
+- &nbsp; <span class="badge" style="font-size:16px;">arXiv '24</span> &nbsp;**A Survey on Failure Analysis and Fault Injection in AI Systems**
 
   <span style="font-size:14px;"> Guangba Yu, **Gou Tan**, Haojia Huang, Zhenyu Zhang, Pengfei Chen, Roberto Natella, Zibin Zheng. </span>
 
