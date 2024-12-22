@@ -17,3 +17,7 @@ bundle exec jekyll serve
 
 
 # /Users/huanghaiyu/.rubies/ruby-3.1.3/bin/bundle exec jekyll liveserve
+
+# http://localhost:4000
+# https://floritange.github.io
+# https://floritange.github.io/files/sitemap.xml
