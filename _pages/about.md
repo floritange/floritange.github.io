@@ -29,6 +29,17 @@ redirect_from:
 - *2023.12*: &nbsp;🎉🎉 Our LLM-based AIOps solutions won [3rd place🥉](https://mp.weixin.qq.com/s/KctBL78OgxSOzPXoeGfe5w) in the [2023 CCF International AIOps Challenge](https://competition.aiops-challenge.com/home/competition/1669253443434315819) \(ranking 1st🏅 among student teams\).
 
 # 📝 Publications 
+- &nbsp; <span class="badge" style="font-size:16px;">arXiv</span> &nbsp;**A Survey on Failure Analysis and Fault Injection in AI Systems**
+
+  <span style="font-size:14px;"> Guangba Yu, **Gou Tan**, Haojia Huang, Zhenyu Zhang, Pengfei Chen, Roberto Natella, Zibin Zheng. </span>
+
+  <!-- <span style="font-size:14px;"> *2023 IEEE 23rd International Conference on Software Quality, Reliability, and Security (QRS), Chiang Mai, Thailand, October 2023.* </span> -->
+
+  [[Paper](https://arxiv.org/pdf/2407.00125)]
+  [Code]
+  [Slides]
+  [DOI]
+
 
 - &nbsp; <span class="badge" style="font-size:16px;">QRS '23</span> &nbsp;**Online Data Drift Detection for Anomaly Detection Services based on Deep Learning towards Multivariate Time Series**
 
