@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-📚 **Biography:** Gou Tan (谭苟 in Chinese) is currently a 1st-year Ph.D. at [Sun Yat-Sen University](https://cse.sysu.edu.cn/), advised by Professor [Pengfei Chen](https://cse.sysu.edu.cn/content/3747). Previously, he received a B.E. from Sun Yat-Sen University in 2022.
+📚 **Biography:** Gou Tan (谭苟 in Chinese) is currently a 1st-year Ph.D. at [Sun Yat-Sen University](https://www.sysu.edu.cn/), advised by Professor [Pengfei Chen](https://cse.sysu.edu.cn/teacher/ChenPengfei). Previously, he received a B.E. from Sun Yat-Sen University in 2022.
 
 💡**Research Interest**: AI Reliability, SE4AI, AI4SE, AIOps, MLOps, LLMOps.
 <!-- Haiyu Huang is currently a research assistant at [Sun Yat-Sen University](https://cse.sysu.edu.cn/), advised by Professor [Pengfei Chen](https://cse.sysu.edu.cn/content/3747). Previously, he received a B.E. in CSE from Sun Yat-Sen University in 2023. He has interned at [Alibaba Cloud](https://cn.aliyun.com/), [Huawei](https://www.huawei.com/), and [Ant Group](https://www.antgroup.com/) in Cloud Native Application Performance Management related departments, developing algorithms and solving real-world problems. -->
