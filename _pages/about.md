@@ -24,8 +24,8 @@ redirect_from:
 
 
 # 🔥 News
+- *2023.12*: &nbsp;🎉🎉 Our LLM-based AIOps solutions won [3rd place🥉](https://mp.weixin.qq.com/s/KctBL78OgxSOzPXoeGfe5w) in the [2023 CCF International AIOps Challenge](https://www.aiops.cn/aiopschallenge/) \(1st🏅 among student teams\).
 - *2023.10*: &nbsp;🎉🎉 Our paper "Online Data Drift Detection for Anomaly Detection Services based on Deep Learning towards Multivariate Time Series" was accepted by QRS'23 Research Track.
-- *2023.12*: &nbsp;🎉🎉 Our LLM-based AIOps solutions won [3rd place🥉](https://mp.weixin.qq.com/s/KctBL78OgxSOzPXoeGfe5w) in the [2023 CCF International AIOps Challenge](https://www.aiops.cn/aiopschallenge/) \(ranking 1st🏅 among student teams\).
 <!-- - *2024.06*: &nbsp;🎉🎉 Our paper "TraStrainer: Adaptive Sampling for Distributed Traces with System Runtime State" has won an **<font color="red">ACM SIGSOFT Distinguished Paper award</font> 🏆**. -->
 
 
@@ -39,7 +39,7 @@ redirect_from:
   [[Paper](https://arxiv.org/pdf/2407.00125)]
   [Code]
   [Slides]
-  [DOI]
+  [[DOI](https://arxiv.org/abs/2407.00125)]
 
 
 - &nbsp; <span class="badge" style="font-size:16px;">QRS '23</span> &nbsp;**Online Data Drift Detection for Anomaly Detection Services based on Deep Learning towards Multivariate Time Series**
@@ -55,12 +55,23 @@ redirect_from:
 
 
 # 🎖 Honors and Awards
-- *2023.12* 3rd Prize, CCF International AIOps Challenge (Ranked 1st among student teams).
-
+- *2025.02* Merit Award (14/403), [vivo BlueOS Innovation Competition](https://competition.atomgit.com/competitionInfo?id=4d59fdd1604b17529552a14449f5d460).
+- *2024.12* Bronze Award, "HUAWEI Cup" The 21st China Post-Graduate Mathematical Contest in Modeling.
+- *2023.12* 3rd Place, [2023 CCF International AIOps Challenge](https://www.aiops.cn/aiopschallenge/) (1st among student teams).
+- 
 
 # 📖 Educations
 - *2022.09 - (now)*, present Ph.D. student (Master's and Ph.D. combined program), Sun Yat-sen University
 - *2018.09 - 2022.06*, Bachelor degree, Sun Yat-Sen University
+
+<!-- <a href="https://clustrmaps.com/site/1c4nh"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=f-lKHy6Grjqk77yNA1otBlUuiz92j29HbqsGM8PbneY&cl=ffffff" /></a> -->
+<a href="https://clustrmaps.com/site/1c4nh"  title="ClustrMaps">
+  <img 
+    src="//www.clustrmaps.com/map_v2.png?d=f-lKHy6Grjqk77yNA1otBlUuiz92j29HbqsGM8PbneY&cl=ffffff" 
+    style="display: block; margin: 0 auto; width: auto; /* 你可以根据需要调整宽度 */" 
+  />
+</a>
+
   <!-- - GPA: 4.1/5.0; Rank: Top 10% -->
 
 <!-- # 💬 Services
