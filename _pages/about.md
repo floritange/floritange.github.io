@@ -27,11 +27,15 @@ redirect_from:
 - *2025.04*: &nbsp;🎉🎉 Our paper "A Survey on Failure Analysis and Fault Injection in AI Systems" was accepted by TOSEM'25 (CCF A).
 - *2023.12*: &nbsp;🎉🎉 Our LLM-based AIOps solutions won [3rd place🥉](https://mp.weixin.qq.com/s/KctBL78OgxSOzPXoeGfe5w) in the [2023 CCF International AIOps Challenge](https://www.aiops.cn/aiopschallenge/) \(1st🏅 among student teams\).
 - *2023.10*: &nbsp;🎉🎉 Our paper "Online Data Drift Detection for Anomaly Detection Services based on Deep Learning towards Multivariate Time Series" was accepted by QRS'23 (CCF C).
+
+<!-- <span style="  display: inline-block;  padding: 2px 10px;  background-color: #c00000;  color: white;  border-radius: 999px;  font-weight: bold;  font-size: 14px;  font-family: sans-serif;">CCFA</span>
+<span style="  display: inline-block;  padding: 2px 10px;  background-color: #f4bc42;  color: white;  border-radius: 999px;  font-weight: bold;  font-size: 14px;  font-family: sans-serif;">CCFB</span>
+<span style="  display: inline-block;  padding: 2px 10px;  background-color: #8bc23f;  color: white;  border-radius: 999px;  font-weight: bold;  font-size: 14px;  font-family: sans-serif;">CCFB</span> -->
 <!-- - *2024.06*: &nbsp;🎉🎉 Our paper "TraStrainer: Adaptive Sampling for Distributed Traces with System Runtime State" has won an **<font color="red">ACM SIGSOFT Distinguished Paper award</font> 🏆**. -->
 
 
 # 📝 Publications 
-- &nbsp; <span class="badge" style="font-size:16px;">TOSEM'25</span> &nbsp;<span class="badge badge-ccf" style="font-size:16px; background-color:#c00000; color:white;">CCF A</span> &nbsp;**A Survey on Failure Analysis and Fault Injection in AI Systems**
+- &nbsp; <span class="badge" style="font-size:16px;">TOSEM'25</span> &nbsp;&nbsp;<span class="badge badge-ccf" style="font-size:16px; background-color:#c00000; color:white;">CCF A</span> &nbsp;**A Survey on Failure Analysis and Fault Injection in AI Systems**
 
   <span style="font-size:14px;"> Guangba Yu, **Gou Tan**, Haojia Huang, Zhenyu Zhang, Pengfei Chen, Roberto Natella, Zibin Zheng. </span>
 
@@ -43,7 +47,7 @@ redirect_from:
   [[DOI](https://arxiv.org/abs/2407.00125)]
 
 
-- &nbsp; <span class="badge" style="font-size:16px;">QRS'23</span> &nbsp;<span class="badge badge-ccf" style="font-size:16px; background-color:#c00000; color:white;">CCF C</span> &nbsp;**Online Data Drift Detection for Anomaly Detection Services based on Deep Learning towards Multivariate Time Series**
+- &nbsp; <span class="badge" style="font-size:16px;">QRS'23</span> &nbsp;&nbsp;<span class="badge badge-ccf" style="font-size:16px; background-color:#8bc23f; color:white;">CCF C</span> &nbsp;**Online Data Drift Detection for Anomaly Detection Services based on Deep Learning towards Multivariate Time Series**
 
   <span style="font-size:14px;"> **Gou Tan**, Pengfei Chen*, and Min Li. </span>
 
