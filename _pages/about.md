@@ -63,7 +63,7 @@ redirect_from:
 - *2025.02* Merit Award (14/403), [vivo BlueOS Innovation Competition](https://competition.atomgit.com/competitionInfo?id=4d59fdd1604b17529552a14449f5d460).
 - *2024.12* Bronze Award, "HUAWEI Cup" The 21st China Post-Graduate Mathematical Contest in Modeling.
 - *2023.12* 3rd Place, [2023 CCF International AIOps Challenge](https://www.aiops.cn/aiopschallenge/) (1st among student teams).
-- 
+
 
 # 📖 Educations
 - *2022.09 - (now)*, present Ph.D. student (Master's and Ph.D. combined program), Sun Yat-sen University
