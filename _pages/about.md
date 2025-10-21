@@ -41,7 +41,7 @@ redirect_from:
 
 - &nbsp; <span class="badge" style="font-size:16px;">TOSEM</span> &nbsp;&nbsp;<span class="badge badge-ccf" style="font-size:16px; background-color:#c00000; color:white;">CCF A</span> &nbsp;**LLMRCA: Multilevel Root Causes Analysis for LLM Applications Using Multimodal Observability Data**
 
-  <span style="font-size:14px;"> **Gou Tan**, Zilong He, Min Li, Haiyu Huang, Yilun Wang, Pengfei Chen*, Giuliano Casale, Chuanfu Zhang </span>
+  <span style="font-size:14px;"> **<u>Gou Tan</u>**, Zilong He, Min Li, Haiyu Huang, Yilun Wang, Pengfei Chen*, Giuliano Casale, Chuanfu Zhang. </span>
 
   <span style="font-size:14px;"> *ACM Transactions on Software Engineering and Methodology.* </span>
 
@@ -53,7 +53,7 @@ redirect_from:
 
 - &nbsp; <span class="badge" style="font-size:16px;">ICSOC'25</span> &nbsp;&nbsp;<span class="badge badge-ccf" style="font-size:16px; background-color:#f4bc42; color:white;">CCF B</span>  &nbsp;**MOTSAD: Multi-Objective Optimization for Time Series Anomaly Detection in Microservice**
 
-  <span style="font-size:14px;"> Xitao Tang, **Gou Tan** and Pengfei Chen* </span>
+  <span style="font-size:14px;"> Xitao Tang, **<u>Gou Tan</u>** and Pengfei Chen*. </span>
 
   <span style="font-size:14px;"> *The 23rd International Conference on Service-Oriented Computing (ICSOC'25), Shenzhen, China, December 2025.* </span>
 
@@ -65,7 +65,7 @@ redirect_from:
 
 - &nbsp; <span class="badge" style="font-size:16px;">ICSE'26</span> &nbsp;&nbsp;<span class="badge badge-ccf" style="font-size:16px; background-color:#c00000; color:white;">CCF A</span> &nbsp;**InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching**
 
-  <span style="font-size:14px;"> Yilun Wang, Pengfei Chen*, Haiyu Huang, Zilong He, **Gou Tan**, Chuanfu Zhang, Jingkai He, Zibin Zheng. </span>
+  <span style="font-size:14px;"> Yilun Wang, Pengfei Chen*, Haiyu Huang, Zilong He, **<u>Gou Tan</u>**, Chuanfu Zhang, Jingkai He, Zibin Zheng. </span>
 
   <span style="font-size:14px;"> *2026 IEEE/ACM International Conference on Software Engineering (ICSE'26), Rio de Janeiro, Brazil, April 2026.* </span>
 
@@ -77,7 +77,7 @@ redirect_from:
 
 - &nbsp; <span class="badge" style="font-size:16px;">TOSEM</span> &nbsp;&nbsp;<span class="badge badge-ccf" style="font-size:16px; background-color:#c00000; color:white;">CCF A</span> &nbsp;**A Survey on Failure Analysis and Fault Injection in AI Systems**
 
-  <span style="font-size:14px;"> Guangba Yu, **Gou Tan**, Haojia Huang, Zhenyu Zhang, Pengfei Chen*, Roberto Natella, Zibin Zheng, Michael R. Lyu. </span>
+  <span style="font-size:14px;"> Guangba Yu, **<u>Gou Tan</u>**, Haojia Huang, Zhenyu Zhang, Pengfei Chen*, Roberto Natella, Zibin Zheng, Michael R. Lyu. </span>
 
   <span style="font-size:14px;"> *ACM Transactions on Software Engineering and Methodology.* </span>
 
@@ -89,7 +89,7 @@ redirect_from:
 
 - &nbsp; <span class="badge" style="font-size:16px;">QRS'23</span> &nbsp;&nbsp;<span class="badge badge-ccf" style="font-size:16px; background-color:#8bc23f; color:white;">CCF C</span> &nbsp;**Online Data Drift Detection for Anomaly Detection Services based on Deep Learning towards Multivariate Time Series**
 
-  <span style="font-size:14px;"> **Gou Tan**, Pengfei Chen*, and Min Li. </span>
+  <span style="font-size:14px;"> **<u>Gou Tan</u>**, Pengfei Chen*, and Min Li. </span>
 
   <span style="font-size:14px;"> *2023 IEEE 23rd International Conference on Software Quality, Reliability, and Security (QRS'23), Chiang Mai, Thailand, October 2023.* </span>
 
@@ -106,13 +106,13 @@ redirect_from:
 
 # 👩🏻‍💻 Working Experience
 - *2025.08 - Present*, AgentOps Research Intern, [Data Infrastructure - Volcano Engine Platform Architecture](https://jobs.volcengine.com/fyx/2025/join?token=MjsxNzUzODY3NTA2MzEyOzY2ODgyMzIyNjAwOTQ3NzI3NTA7NzUzMjgwMjI0OTc0MDgxNDU5OTsx), ByteDance
-  - Collaborator: [Meng Wang](https://mengwangbupt.github.io/), [Yaozheng Fang](https://fangyaozheng.github.io/), Guodong Li
-  - Project: [Volcengine Agent Development Kit (VeADK)](https://github.com/volcengine/veadk-python)
-  - Work: Multi-Agent System evaluation and optimization
+  - Collaborator: [Meng Wang](https://mengwangbupt.github.io/), [Yaozheng Fang](https://fangyaozheng.github.io/), Guodong Li.
+  - Project: [Volcengine Agent Development Kit (VeADK)](https://github.com/volcengine/veadk-python).
+  - Work: Multi-Agent system evaluation and optimization.
 
 # 📖 Educations
-- *2022.09 - Present*, Ph.D. student (Master's and Ph.D. combined program), Sun Yat-sen University
-- *2018.09 - 2022.06*, Bachelor degree, Sun Yat-Sen University
+- *2022.09 - Present*, Ph.D. student (Master's and Ph.D. combined program), Sun Yat-sen University.
+- *2018.09 - 2022.06*, Bachelor degree, Sun Yat-sen University.
 
 <!-- <a href="https://clustrmaps.com/site/1c4nh"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=f-lKHy6Grjqk77yNA1otBlUuiz92j29HbqsGM8PbneY&cl=ffffff" /></a> -->
 <a href="https://clustrmaps.com/site/1c4nh"  title="ClustrMaps">
