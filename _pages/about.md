@@ -81,7 +81,7 @@ redirect_from:
 
   <span style="font-size:14px;"> *ACM Transactions on Software Engineering and Methodology.* </span>
 
-  [[Paper](https://floritange.github.io/files/tosem25/tosem25_AIFailure.pdf)]
+  [[Paper](./files/tosem25/tosem25_AIFailure.pdf)]
   [Code]
   [Slides]
   [[DOI](https://dl.acm.org/doi/10.1145/3732777)]
@@ -93,9 +93,9 @@ redirect_from:
 
   <span style="font-size:14px;"> *2023 IEEE 23rd International Conference on Software Quality, Reliability, and Security (QRS'23), Chiang Mai, Thailand, October 2023.* </span>
 
-  [[Paper](https://floritange.github.io/files/qrs23/qrs23.pdf)]
+  [[Paper](./files/qrs23/qrs23.pdf)]
   [Code]
-  [[Slides](https://floritange.github.io/files/qrs23/qrs23_slides.pdf)]
+  [[Slides](./files/qrs23/qrs23_slides.pdf)]
   [[DOI](https://ieeexplore.ieee.org/abstract/document/10366704)]
 
 
@@ -105,10 +105,8 @@ redirect_from:
 - *2023.12* 3rd Place, [2023 CCF International AIOps Challenge](https://www.aiops.cn/aiopschallenge/) (1st among student teams).
 
 # 👩🏻‍💻 Working Experience
-- *2025.08 - Present*, AgentOps Research Intern, [Data Infrastructure - Volcano Engine Platform Architecture](https://jobs.volcengine.com/fyx/2025/join?token=MjsxNzUzODY3NTA2MzEyOzY2ODgyMzIyNjAwOTQ3NzI3NTA7NzUzMjgwMjI0OTc0MDgxNDU5OTsx), ByteDance
-  - Collaborator: [Meng Wang](https://mengwangbupt.github.io/), [Yaozheng Fang](https://fangyaozheng.github.io/), Guodong Li.
-  - Project: [Volcengine Agent Development Kit (VeADK)](https://github.com/volcengine/veadk-python).
-  - Work: Multi-Agent system evaluation and optimization.
+- *2025.08 - Present*, <img src="./images/00_bytedance.png" alt="ByteDance" style="height: 16px; vertical-align: middle; margin-left: 4px;"> ByteDance. AgentOps Research Intern, [Data Infrastructure - Volcano Engine Platform Architecture](https://jobs.volcengine.com/fyx/2025/join?token=MjsxNzUzODY3NTA2MzEyOzY2ODgyMzIyNjAwOTQ3NzI3NTA7NzUzMjgwMjI0OTc0MDgxNDU5OTsx).
+  - Collaborate with [Meng Wang](https://mengwangbupt.github.io/), [Yaozheng Fang](https://fangyaozheng.github.io/), and Guodong Li. Developed [Volcengine Agent Development Kit (VeADK)](https://github.com/volcengine/veadk-python). Focus on "Multi-Agent system evaluation and optimization".
 
 # 📖 Educations
 - *2022.09 - Present*, Ph.D. student (Master's and Ph.D. combined program), Sun Yat-sen University.
