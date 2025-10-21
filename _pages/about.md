@@ -17,15 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-📚 **Biography:** Gou Tan (谭苟 in Chinese) is currently a 2nd-year Ph.D. student at [Sun Yat-Sen University (SYSU)](https://www.sysu.edu.cn/sysuen/), supervised by Prof. [Pengfei Chen](https://cse.sysu.edu.cn/teacher/ChenPengfei). Recently, he was awarded a CSC (China Scholarship Council) fellowship, and he will join the [Singapore Management University (SMU)](https://rise.smu.edu.sg/), co-supervised by Prof. [SHAR Lwin Khin](https://faculty.smu.edu.sg/profile/shar-lwin-khin-6796) and Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/). Previously, he received a B.E. degree from Sun Yat-Sen University in 2022.
+📚 **Biography:** Gou Tan (谭苟 in Chinese) is currently a 2nd-year Ph.D. student at [Sun Yat-Sen University (SYSU)](https://www.sysu.edu.cn/sysuen/), supervised by Prof. [Pengfei Chen](https://cse.sysu.edu.cn/teacher/ChenPengfei) and Prof. [Chuanfu Zhang](https://ssse.sysu.edu.cn/teacher/311). Recently, he was awarded a CSC (China Scholarship Council) fellowship, and he will join the [Singapore Management University (SMU)](https://rise.smu.edu.sg/), co-supervised by Prof. [SHAR Lwin Khin](https://faculty.smu.edu.sg/profile/shar-lwin-khin-6796) and Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/). He received a B.E. degree from Sun Yat-Sen University in 2022.
 
 💡**Research Interest**: AI Reliability, SE4AI, LLMOps, MLOps, AI4SE, AIOps.
 <!-- Haiyu Huang is currently a research assistant at [Sun Yat-Sen University](https://cse.sysu.edu.cn/), advised by Professor [Pengfei Chen](https://cse.sysu.edu.cn/content/3747). Previously, he received a B.E. in CSE from Sun Yat-Sen University in 2023. He has interned at [Alibaba Cloud](https://cn.aliyun.com/), [Huawei](https://www.huawei.com/), and [Ant Group](https://www.antgroup.com/) in Cloud Native Application Performance Management related departments, developing algorithms and solving real-world problems. -->
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 Our paper "LLMRCA: Multilevel Root Cause Analysis for LLM Applications Using Multimodal Observability Data" was accepted by TOSEM (CCF A).
+- *2025.09*: &nbsp;🎉🎉 Our paper "MOTSAD: Multi-Objective Optimization for Time Series Anomaly Detection in Microservice" was accepted by ICSOC'25 (CCF B).
 - *2025.06*: &nbsp;🎉🎉 Our paper "InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching" was accepted by ICSE'26 (CCF A).
-- *2025.04*: &nbsp;🎉🎉 Our paper "A Survey on Failure Analysis and Fault Injection in AI Systems" was accepted by TOSEM'25 (CCF A).
+- *2025.04*: &nbsp;🎉🎉 Our paper "A Survey on Failure Analysis and Fault Injection in AI Systems" was accepted by TOSEM (CCF A).
 - *2023.12*: &nbsp;🎉🎉 Our LLM-based AIOps solutions won [3rd place🥉](https://mp.weixin.qq.com/s/KctBL78OgxSOzPXoeGfe5w) in the [2023 CCF International AIOps Challenge](https://www.aiops.cn/aiopschallenge/) \(1st🏅 among student teams\).
 - *2023.10*: &nbsp;🎉🎉 Our paper "Online Data Drift Detection for Anomaly Detection Services based on Deep Learning towards Multivariate Time Series" was accepted by QRS'23 (CCF C).
 
@@ -36,19 +38,44 @@ redirect_from:
 
 
 # 📝 Publications 
+
+- &nbsp; <span class="badge" style="font-size:16px;">TOSEM</span> &nbsp;&nbsp;<span class="badge badge-ccf" style="font-size:16px; background-color:#c00000; color:white;">CCF A</span> &nbsp;**LLMRCA: Multilevel Root Causes Analysis for LLM Applications Using Multimodal Observability Data**
+
+  <span style="font-size:14px;"> **Gou Tan**, Zilong He, Min Li, Haiyu Huang, Yilun Wang, Pengfei Chen*, Giuliano Casale, Chuanfu Zhang </span>
+
+  <span style="font-size:14px;"> *ACM Transactions on Software Engineering and Methodology.* </span>
+
+  [Paper]
+  [[Code](https://github.com/IntelligentDDS/LLMRCA)]
+  [Slides]
+  [DOI]
+
+
+- &nbsp; <span class="badge" style="font-size:16px;">ICSOC'25</span> &nbsp;&nbsp;<span class="badge badge-ccf" style="font-size:16px; background-color:#f4bc42; color:white;">CCF B</span>  &nbsp;**MOTSAD: Multi-Objective Optimization for Time Series Anomaly Detection in Microservice**
+
+  <span style="font-size:14px;"> Xitao Tang, **Gou Tan** and Pengfei Chen* </span>
+
+  <span style="font-size:14px;"> *The 23rd International Conference on Service-Oriented Computing (ICSOC'25), Shenzhen, China, December 2025.* </span>
+
+  [Paper]
+  [[Code](https://github.com/IntelligentDDS/MOTSAD)]
+  [Slides]
+  [DOI]
+
+
 - &nbsp; <span class="badge" style="font-size:16px;">ICSE'26</span> &nbsp;&nbsp;<span class="badge badge-ccf" style="font-size:16px; background-color:#c00000; color:white;">CCF A</span> &nbsp;**InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching**
 
   <span style="font-size:14px;"> Yilun Wang, Pengfei Chen*, Haiyu Huang, Zilong He, **Gou Tan**, Chuanfu Zhang, Jingkai He, Zibin Zheng. </span>
 
   <span style="font-size:14px;"> *2026 IEEE/ACM International Conference on Software Engineering (ICSE'26), Rio de Janeiro, Brazil, April 2026.* </span>
 
-  [Paper]
+  [[Paper](https://arxiv.org/abs/2507.08523)]
   [Code]
   [Slides]
   [DOI]
 
 
-- &nbsp; <span class="badge" style="font-size:16px;">TOSEM'25</span> &nbsp;&nbsp;<span class="badge badge-ccf" style="font-size:16px; background-color:#c00000; color:white;">CCF A</span> &nbsp;**A Survey on Failure Analysis and Fault Injection in AI Systems**
+- &nbsp; <span class="badge" style="font-size:16px;">TOSEM</span> &nbsp;&nbsp;<span class="badge badge-ccf" style="font-size:16px; background-color:#c00000; color:white;">CCF A</span> &nbsp;**A Survey on Failure Analysis and Fault Injection in AI Systems**
 
   <span style="font-size:14px;"> Guangba Yu, **Gou Tan**, Haojia Huang, Zhenyu Zhang, Pengfei Chen*, Roberto Natella, Zibin Zheng, Michael R. Lyu. </span>
 
@@ -77,9 +104,14 @@ redirect_from:
 - *2024.12* Bronze Award, "HUAWEI Cup" The 21st China Post-Graduate Mathematical Contest in Modeling.
 - *2023.12* 3rd Place, [2023 CCF International AIOps Challenge](https://www.aiops.cn/aiopschallenge/) (1st among student teams).
 
+# 👩🏻‍💻 Working Experience
+- *2025.08 - Present*, AgentOps Research Intern, [Data Infrastructure - Volcano Engine Platform Architecture](https://jobs.volcengine.com/fyx/2025/join?token=MjsxNzUzODY3NTA2MzEyOzY2ODgyMzIyNjAwOTQ3NzI3NTA7NzUzMjgwMjI0OTc0MDgxNDU5OTsx), ByteDance
+  - Collaborator: [Meng Wang](https://mengwangbupt.github.io/), [Yaozheng Fang](https://fangyaozheng.github.io/), Guodong Li
+  - Project: [Volcengine Agent Development Kit (VeADK)](https://github.com/volcengine/veadk-python)
+  - Work: Multi-Agent System evaluation and optimization
 
 # 📖 Educations
-- *2022.09 - (now)*, present Ph.D. student (Master's and Ph.D. combined program), Sun Yat-sen University
+- *2022.09 - Present*, Ph.D. student (Master's and Ph.D. combined program), Sun Yat-sen University
 - *2018.09 - 2022.06*, Bachelor degree, Sun Yat-Sen University
 
 <!-- <a href="https://clustrmaps.com/site/1c4nh"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=f-lKHy6Grjqk77yNA1otBlUuiz92j29HbqsGM8PbneY&cl=ffffff" /></a> -->
@@ -90,6 +122,25 @@ redirect_from:
   />
 </a>
 
+<!-- 页面最后更新时间 -->
+<div style="text-align: right; margin-top: 0px; padding-right: 20px; color: #999; font-size: 12px;">
+    Last Updated: <span id="last-updated"></span>
+</div>
+
+<script>
+    function updateLastUpdated() {
+        const lastModified = new Date(document.lastModified);
+        const options = { 
+            year: 'numeric', 
+            month: 'short', 
+            day: 'numeric',
+            timeZone: 'Asia/Shanghai'
+        };
+        document.getElementById('last-updated').textContent = lastModified.toLocaleDateString('en-US', options);
+    }
+    
+    updateLastUpdated();
+</script>
   <!-- - GPA: 4.1/5.0; Rank: Top 10% -->
 
 <!-- # 💬 Services
