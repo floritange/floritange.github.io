@@ -106,7 +106,9 @@ redirect_from:
 
 # 👩🏻‍💻 Working Experience
 - *2025.08 - Present*, <img src="./images/00_bytedance.png" alt="ByteDance" style="height: 16px; vertical-align: middle; margin-left: 4px;"> ByteDance. AgentOps Research Intern, [Data Infrastructure - Volcano Engine Platform Architecture](https://jobs.volcengine.com/fyx/2025/join?token=MjsxNzUzODY3NTA2MzEyOzY2ODgyMzIyNjAwOTQ3NzI3NTA7NzUzMjgwMjI0OTc0MDgxNDU5OTsx).
-  - Collaborate with [Meng Wang](https://mengwangbupt.github.io/), [Yaozheng Fang](https://fangyaozheng.github.io/), and Guodong Li. Developed [Volcengine Agent Development Kit (VeADK)](https://github.com/volcengine/veadk-python). Focus on "Multi-Agent system evaluation and optimization".
+  
+  <span style="font-size:14px;"> Collaborate with [Meng Wang](https://mengwangbupt.github.io/), [Yaozheng Fang](https://fangyaozheng.github.io/), and Guodong Li. Developed [Volcengine Agent Development Kit (VeADK)](https://github.com/volcengine/veadk-python). Focus on "Multi-Agent system evaluation and optimization". </span>
+
 
 # 📖 Educations
 - *2022.09 - Present*, Ph.D. student (Master's and Ph.D. combined program), Sun Yat-sen University.
