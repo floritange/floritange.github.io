@@ -70,7 +70,7 @@ redirect_from:
   <span style="font-size:14px;"> *2026 IEEE/ACM International Conference on Software Engineering (ICSE'26), Rio de Janeiro, Brazil, April 2026.* </span>
 
   [[Paper](https://arxiv.org/abs/2507.08523)]
-  [Code]
+  [[Code](https://github.com/wiluen/InferLog)]
   [Slides]
   [DOI]
 
