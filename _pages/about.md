@@ -24,13 +24,14 @@ redirect_from:
 
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 Our paper "ProfRCA: LLM-Enabled Fine-grained Root Cause Analysis with Continuous Profiling Data" was accepted by **SANER'26 (CCF B)**! Congrats to Siyuan!
-- *2025.10*: &nbsp;🎉🎉 Our paper "LLMRCA: Multilevel Root Cause Analysis for LLM Applications Using Multimodal Observability Data" was accepted by **TOSEM (CCF A)**!
-- *2025.09*: &nbsp;🎉🎉 Our paper "MOTSAD: Multi-Objective Optimization for Time Series Anomaly Detection in Microservice" was accepted by **ICSOC'25 (CCF B)**! Congrats to Xitao!
-- *2025.06*: &nbsp;🎉🎉 Our paper "InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching" was accepted by **ICSE'26 (CCF A)**! Congrats to Yilun!
-- *2025.04*: &nbsp;🎉🎉 Our paper "A Survey on Failure Analysis and Fault Injection in AI Systems" was accepted by **TOSEM (CCF A)**! Congrats to Guangba!
+- *2025.12*: &nbsp;🎉🎉 Our paper "MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge" was accepted by **<font color="red">FSE'26 (CCF A)</font>**! Congrats to Shuai Liang!
+- *2025.12*: &nbsp;🎉🎉 Our paper "ProfRCA: LLM-Enabled Fine-grained Root Cause Analysis with Continuous Profiling Data" was accepted by **<font color="red">SANER'26 (CCF B)</font>**! Congrats to Siyuan!
+- *2025.10*: &nbsp;🎉🎉 Our paper "LLMRCA: Multilevel Root Cause Analysis for LLM Applications Using Multimodal Observability Data" was accepted by **<font color="red">TOSEM (CCF A)</font>**!
+- *2025.09*: &nbsp;🎉🎉 Our paper "MOTSAD: Multi-Objective Optimization for Time Series Anomaly Detection in Microservice" was accepted by **<font color="red">ICSOC'25 (CCF B)</font>**! Congrats to Xitao!
+- *2025.06*: &nbsp;🎉🎉 Our paper "InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching" was accepted by **<font color="red">ICSE'26 (CCF A)</font>**! Congrats to Yilun!
+- *2025.04*: &nbsp;🎉🎉 Our paper "A Survey on Failure Analysis and Fault Injection in AI Systems" was accepted by **<font color="red">TOSEM (CCF A)</font>**! Congrats to Guangba!
 - *2023.12*: &nbsp;🎉🎉 Our LLM-based AIOps solutions won [3rd place🥉](https://mp.weixin.qq.com/s/KctBL78OgxSOzPXoeGfe5w) in the [2023 CCF International AIOps Challenge](https://www.aiops.cn/aiopschallenge/) \(1st🏅 among student teams\).
-- *2023.10*: &nbsp;🎉🎉 Our paper "Online Data Drift Detection for Anomaly Detection Services based on Deep Learning towards Multivariate Time Series" was accepted by QRS'23 (CCF C).
+- *2023.10*: &nbsp;🎉🎉 Our paper "Online Data Drift Detection for Anomaly Detection Services based on Deep Learning towards Multivariate Time Series" was accepted by **<font color="red">QRS'23 (CCF C)</font>**!
 
 <!-- <span style="  display: inline-block;  padding: 2px 10px;  background-color: #c00000;  color: white;  border-radius: 999px;  font-weight: bold;  font-size: 14px;  font-family: sans-serif;">CCFA</span>
 <span style="  display: inline-block;  padding: 2px 10px;  background-color: #f4bc42;  color: white;  border-radius: 999px;  font-weight: bold;  font-size: 14px;  font-family: sans-serif;">CCFB</span>
@@ -39,6 +40,16 @@ redirect_from:
 
 
 # 📝 Publications 
+- &nbsp; <span class="badge" style="font-size:15px; background-color:#c00000; color:white;">FSE'26 (CCF A)</span> &nbsp;**MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge**
+
+  <span style="font-size:14px;"> Shuai Liang, Pengfei Chen*, Bozhe Tian, **<font color="red">Gou Tan</font>**, Maohong Xu, Youjun Qu, Yahui Zhao, Yiduo Shang, Chongkang Tan. </span>
+
+  <span style="font-size:14px;"> *ACM International Conference on the Foundations of Software Engineering. (FSE'26), Montreal, Canada, July, 2026.* </span>
+
+  [Paper]
+  [Code]
+  [Slides]
+  [DOI]
 
 - &nbsp; <span class="badge" style="font-size:15px; background-color:#c00000; color:white;">TOSEM (CCF A)</span> &nbsp;**LLMRCA: Multilevel Root Causes Analysis for LLM Applications Using Multimodal Observability Data**
 
