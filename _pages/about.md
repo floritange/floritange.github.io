@@ -25,8 +25,9 @@ redirect_from:
 
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 Our paper "MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge" was accepted by **<font color="red">FSE'26 (CCF A)</font>**! Congrats to Shuai Liang!
+- *2025.12*: &nbsp;🎉🎉 Our Agent-based C to Rust solutions won [vivo BlueOS 3rd Prize](https://competition.openatom.tech/competitionInfo?id=49f0205ecd5c81c96381829456fef6a5#heading-0-0).
 - *2025.12*: &nbsp;🎉🎉 Our paper "ProfRCA: LLM-Enabled Fine-grained Root Cause Analysis with Continuous Profiling Data" was accepted by **<font color="red">SANER'26 (CCF B)</font>**! Congrats to Siyuan!
-- *2025.10*: &nbsp;🎉🎉 Our paper "LLMRCA: Multilevel Root Cause Analysis for LLM Applications Using Multimodal Observability Data" was accepted by **<font color="red">TOSEM (CCF A)</font>**!
+<!-- - *2025.10*: &nbsp;🎉🎉 Our paper "LLMRCA: Multilevel Root Cause Analysis for LLM Applications Using Multimodal Observability Data" was accepted by **<font color="red">TOSEM (CCF A)</font>**! -->
 - *2025.09*: &nbsp;🎉🎉 Our paper "MOTSAD: Multi-Objective Optimization for Time Series Anomaly Detection in Microservice" was accepted by **<font color="red">ICSOC'25 (CCF B)</font>**! Congrats to Xitao!
 - *2025.06*: &nbsp;🎉🎉 Our paper "InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching" was accepted by **<font color="red">ICSE'26 (CCF A)</font>**! Congrats to Yilun!
 - *2025.04*: &nbsp;🎉🎉 Our paper "A Survey on Failure Analysis and Fault Injection in AI Systems" was accepted by **<font color="red">TOSEM (CCF A)</font>**! Congrats to Guangba!
@@ -44,21 +45,10 @@ redirect_from:
 
   <span style="font-size:14px;"> Shuai Liang, Pengfei Chen*, Bozhe Tian, **<font color="red">Gou Tan</font>**, Maohong Xu, Youjun Qu, Yahui Zhao, Yiduo Shang, Chongkang Tan. </span>
 
-  <span style="font-size:14px;"> *ACM International Conference on the Foundations of Software Engineering. (FSE'26), Montreal, Canada, July, 2026.* </span>
+  <span style="font-size:14px;"> *ACM International Conference on the Foundations of Software Engineering (FSE'26), Montreal, Canada, July, 2026.* </span>
 
   [Paper]
   [Code]
-  [Slides]
-  [DOI]
-
-- &nbsp; <span class="badge" style="font-size:15px; background-color:#c00000; color:white;">TOSEM (CCF A)</span> &nbsp;**LLMRCA: Multilevel Root Causes Analysis for LLM Applications Using Multimodal Observability Data**
-
-  <span style="font-size:14px;"> **<font color="red">Gou Tan</font>**, Zilong He, Min Li, Haiyu Huang, Yilun Wang, Pengfei Chen*, Giuliano Casale, Chuanfu Zhang. </span>
-
-  <span style="font-size:14px;"> *ACM Transactions on Software Engineering and Methodology.* </span>
-
-  [Paper]
-  [[Code](https://github.com/IntelligentDDS/LLMRCA)]
   [Slides]
   [DOI]
 
@@ -120,8 +110,21 @@ redirect_from:
   [[Slides](./files/qrs23/qrs23_slides.pdf)]
   [[DOI](https://ieeexplore.ieee.org/abstract/document/10366704)]
 
+# 📝 Under Review
+- &nbsp; <span class="badge" style="font-size:15px;">26</span> &nbsp;**LLMRCA: Multilevel Root Causes Analysis for LLM Applications Using Multimodal Observability Data**
+
+  <span style="font-size:14px;"> **<font color="red">Gou Tan</font>**, Zilong He, Min Li, Haiyu Huang, Yilun Wang, Pengfei Chen*, Giuliano Casale, Chuanfu Zhang. </span>
+
+  <!-- <span style="font-size:14px;"> *ACM Transactions on Software Engineering and Methodology.* </span> -->
+
+  [Paper]
+  [Code]
+  <!-- [[Code](https://github.com/IntelligentDDS/LLMRCA)] -->
+  [Slides]
+  [DOI]
 
 # 🎖 Honors and Awards
+- *2025.12* Merit Award (7/154), [vivo BlueOS 3rd Prize](https://competition.openatom.tech/competitionInfo?id=49f0205ecd5c81c96381829456fef6a5#heading-0-0).
 - *2025.02* Merit Award (14/403), [vivo BlueOS Innovation Competition](https://competition.atomgit.com/competitionInfo?id=4d59fdd1604b17529552a14449f5d460).
 - *2024.12* Bronze Award, "HUAWEI Cup" The 21st China Post-Graduate Mathematical Contest in Modeling.
 - *2023.12* 3rd Place, [2023 CCF International AIOps Challenge](https://www.aiops.cn/aiopschallenge/) (1st among student teams).
