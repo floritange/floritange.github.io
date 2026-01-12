@@ -111,6 +111,15 @@ redirect_from:
   [[DOI](https://ieeexplore.ieee.org/abstract/document/10366704)]
 
 # 💯 Under Review
+- &nbsp; <span class="badge" style="font-size:15px;">26</span> &nbsp;**LIDL: LLM Integration Defect Localization via Knowledge Graph-Enhanced Multi-Agent Analysis**
+
+  <span style="font-size:14px;"> **<font color="red">Gou Tan</font>**, Zilong He, Min Li, Pengfei Chen, Jieke Shi, Zhensu Sun, Ting Zhang, Danwen Chen, Lwin Khin Shar, Chuanfu Zhang, David Lo. </span>
+  
+  [[Paper](https://arxiv.org/abs/2601.05539)]
+  [Code]
+  [Slides]
+  [DOI]
+
 - &nbsp; <span class="badge" style="font-size:15px;">26</span> &nbsp;**LLMRCA: Multilevel Root Causes Analysis for LLM Applications Using Multimodal Observability Data**
 
   <span style="font-size:14px;"> **<font color="red">Gou Tan</font>**, Zilong He, Min Li, Haiyu Huang, Yilun Wang, Pengfei Chen*, Giuliano Casale, Chuanfu Zhang. </span>
